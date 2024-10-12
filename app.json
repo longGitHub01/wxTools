@@ -3,7 +3,7 @@
     "pages/index/index",
     "pages/logs/logs"
   ],
-  "window": {
+  "window": {22
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "Weixin",
     "navigationBarBackgroundColor": "#ffffff"
